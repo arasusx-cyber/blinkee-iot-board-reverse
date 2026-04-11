@@ -4,9 +4,10 @@ Hardware reverse-engineering notes for a fleet e-scooter IoT / telematics board 
 
 > Focus: **PCB hardware mapping, pinout, signal tracing, and subsystem documentation**.
 > This repository documents the **board architecture only**.
-
 ---
-
+![](images/1.jpg)
+![](images/2.jpg)
+---
 # 📦 Main components
 
 * **MCU:** STM32F030CCT6
